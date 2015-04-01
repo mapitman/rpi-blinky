@@ -14,7 +14,7 @@ run();
 function run() {
   direction();
   turnOn(currentColor);
-  setTimeout(run, 200);
+  setTimeout(run, 100);
 }
 
 
